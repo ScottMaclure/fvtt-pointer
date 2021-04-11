@@ -1,4 +1,4 @@
-# PnP - Pings and Pointer
+# PnP - Pointer and Pings!
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/moerill/fvtt-pointer?style=flat-square"> <img alt="GitHub" src="https://img.shields.io/github/license/moerill/fvtt-pointer?style=flat-square"> <img alt="GitHub Releases" src="https://img.shields.io/github/downloads/moerill/fvtt-pointer/latest/total?style=flat-square">  
 
 Gives all players the option to show a customizable cursor on demand, as well as ping any location with a custom ping!  
@@ -7,7 +7,7 @@ As GM you can also move your players view to your pin on demand.
 
 ![](doc/pnp.gif)
 
-- [PnP - Pings and Pointer](#pnp---pings-and-pointer)
+- [PnP - Pointer and Pings!](#pnp---pointer-and-pings!)
 - [Important Information!](#important-information)
 	- [FVTT Version compatibility](#fvtt-version-compatibility)
 	- [Bug Reporting and Feature Suggestions](#bug-reporting-and-feature-suggestions)
